@@ -64,6 +64,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--nomral-font-size);
   color: var(--second-color);
+ 
 }
 
 h1,
@@ -213,6 +214,15 @@ img {
 
 .home_social-icon:hover {
   color: var(--first-color);
+}
+.image img{
+    width:300px;
+    height:300px;
+    margin-left:600px;
+    margin-top:-100px;
+    border: 9px solid rgba(0, 0, 0, 0.15);
+ 
+    
 }
 
 .home_img {
